@@ -29,10 +29,10 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
-PRODUCT_AAPT_PREF_CONFIG := xxxhdpi
+PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 # Boot animation
-TARGET_SCREEN_HEIGHT := 2352
+TARGET_SCREEN_HEIGHT := 2412
 TARGET_SCREEN_WIDTH := 1080
 
 # Audio
